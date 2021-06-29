@@ -2,9 +2,9 @@
 
 Livro de Receitas
 
-º Strogonoff
+- Strogonoff
 
-º Pave
+- Pave
 
-# bolo de cenoura
+- Ovos Cozidos
 
